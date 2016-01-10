@@ -1,5 +1,5 @@
 ﻿.highland-navbar {
-    background-color: #FFF;
+    background-color: #e1e1e1;
     font-weight: bold;
     font-size: 20px;
 }
@@ -16,7 +16,9 @@
 }
 
 .highland-carousel-inner {
-    max-height: 700px;
+    max-height: 550px;
+    width: 75%;
+    margin: auto;
 }
 
 .highland-footer {
@@ -31,6 +33,7 @@
 
 .highland-footer-text {
     text-align: center;
+    color: black;
 }
 
 .highland-footer-content {
@@ -49,6 +52,12 @@
 
 .jumbotron.highland-jumbotron {
     padding-bottom: 15px;
+    background-color: #4396DC;
+    clear: both;
+}
+
+.highland-facebook-logo{
+    max-height: 40px;
 }
 
 /* Sticky footer styles
